@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "naumovs.color-highlight",
+    "eamodio.gitlens",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "EditorConfig.EditorConfig",
+    "wayou.vscode-todo-highlight"
+  ]
+}
